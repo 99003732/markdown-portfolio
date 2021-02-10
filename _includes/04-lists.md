@@ -1,3 +1,3 @@
-:Banglore
-:Mysore
-:Hubballi
++Banglore
+-Mysore
++Hubballi
